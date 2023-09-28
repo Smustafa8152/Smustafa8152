@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mustafa Suleman</h1>
 <h3 align="center">A Learning and a Passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smustafa8152&label=Profile%20views&color=0e75b6&style=flat" alt="smustafa8152" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smustafa8152" alt="smustafa8152" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack and Data Science**
 
