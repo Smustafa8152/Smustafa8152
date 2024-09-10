@@ -2,7 +2,6 @@
 <h3 align="center">A Learning and a Passionate Full Stack Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Full Stack and Data Science**
 
 - 💬 Ask me about **Java, Python and their Frameworks**
 
